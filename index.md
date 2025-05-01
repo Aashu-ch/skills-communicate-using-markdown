@@ -16,9 +16,6 @@ A simple and effective project demonstrating Markdown features for documentation
 
 ## 💻 Code Example
 
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-
-greet("World")
+``` javascript
+var myVar = "Hello, world!";
 ```
