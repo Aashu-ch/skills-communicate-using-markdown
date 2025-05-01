@@ -15,7 +15,6 @@ A simple and effective project demonstrating Markdown features for documentation
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## 💻 Code Example
-
 ``` javascript
 var myVar = "Hello, world!";
 ```
