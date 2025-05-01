@@ -12,7 +12,7 @@ A simple and effective project demonstrating Markdown features for documentation
 
 ## 📷 Image
 
-![Sample Image](https://via.placeholder.com/600x200.png?text=mw+Project+Banner)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## 💻 Code Example
 
